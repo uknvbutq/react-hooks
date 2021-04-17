@@ -2,4 +2,4 @@
 
 | Hook        | Description |
 | ----------- | ----------- |
-| [useKeyPress]() | Check keydown and keyup events for some letter |
+| [useKeyPress](./docs/useKeyPress.md) | Detect keydown and keyup events for some keyboard letter when is pressed. |
