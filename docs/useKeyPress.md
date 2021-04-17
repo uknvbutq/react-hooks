@@ -25,5 +25,5 @@ const App = () => {
 const isPressed = useKeyPress(letter);
 ```
 
-- **isPressed**: *boolean* - state when the letter key is pressed
-- **letter**: *string* - the letter
+- **`isPressed`**: *`boolean`* - state when the letter key is pressed
+- **`letter`**: *`string`* - the letter
